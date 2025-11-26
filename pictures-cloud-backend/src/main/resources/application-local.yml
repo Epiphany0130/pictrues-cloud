@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: root
+    password: sdd0531sdd0531
