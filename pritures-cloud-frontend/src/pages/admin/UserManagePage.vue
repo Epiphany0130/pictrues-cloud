@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-const msg = '欢迎来到云图库'
+const msg = '用户管理'
 </script>
 
 <style scoped>
